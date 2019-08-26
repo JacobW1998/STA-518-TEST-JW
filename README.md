@@ -1,6 +1,6 @@
 # STA-518-TEST-JW
 test to make a repository
 
-this repo is to explore github markdown for STA 418
+this is line 2
 
-WHYYYYYYY
+this is different
